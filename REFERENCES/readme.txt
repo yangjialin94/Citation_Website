@@ -1,0 +1,6 @@
+1. authors(id,pid,author)
+2. confs(cname,pid)
+3. favorpaper(pid,userid)
+4. journals(jname,pid)
+5. papers(pid,title,venue,year)
+6. users(username,myname,email,password)
